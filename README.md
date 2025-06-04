@@ -1,6 +1,8 @@
 <p align="center">
   <br>
-  <img width="300" src="https://imagedelivery.net/Kpcbofvpelk1jdjXmWIr5w/e94eee43-34e1-4859-016a-7e0e3a98cf00/public" alt="logo">
+  <a href="https://serp.ly/serp-blocks" target="_blank">
+  <img width="200" src="https://imagedelivery.net/Kpcbofvpelk1jdjXmWIr5w/e94eee43-34e1-4859-016a-7e0e3a98cf00/public" alt="logo">
+    </a>
   <br>
   <br>
 </p>
