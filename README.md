@@ -11,7 +11,18 @@
 
 <p align='center'>
 The largest list online of awesome things related to <a href='https://ui.shadcn.com/' target="_blank">shadcn/ui</a>
-<br><br>
+<br>
+- [Components & Libraries](#components-libraries)
+- [Boilerplates & Starters](#boilerplates-starters)
+- [Tools & Utilities](#tools-utilities)
+- [Inspirations & Examples](#inspirations-examples)
+- [Platforms & Applications](#platforms-applications)
+- [Themes & Customizations](#themes-customizations)
+- [Plugins & Extensions](#plugins-extensions)
+- [Ports & Implementations](#ports-implementations)
+- [Design Systems & Kits](#design-systems-kits)
+- [Animations & Effects](#animations-effects)
+<br>
 
 ## Components & Libraries
 
