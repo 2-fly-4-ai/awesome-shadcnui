@@ -7,22 +7,26 @@
   <br>
 </p>
 
-<h2 align='center'>Awesome ShadcnUI By SERP Blocks</h2>
-
-<p align='center'>
-The largest list online of awesome things related to <a href='https://ui.shadcn.com/' target="_blank">shadcn/ui</a>
-<br>
-- [Components & Libraries](#components-libraries)
-- [Boilerplates & Starters](#boilerplates-starters)
-- [Tools & Utilities](#tools-utilities)
-- [Inspirations & Examples](#inspirations-examples)
-- [Platforms & Applications](#platforms-applications)
-- [Themes & Customizations](#themes-customizations)
-- [Plugins & Extensions](#plugins-extensions)
-- [Ports & Implementations](#ports-implementations)
-- [Design Systems & Kits](#design-systems-kits)
-- [Animations & Effects](#animations-effects)
-<br>
+<div>
+<h1 align='center'>Awesome ShadcnUI By SERP Blocks</h1>
+<p align='center'>The largest list online of awesome things related to <a href='https://ui.shadcn.com/' target="_blank">shadcn/ui</a></p>
+</div>     
+<table align="center">
+  <tr>
+    <div align="center">
+      <a href="#components--libraries">Components & Libraries</a>  |  
+      <a href="#boilerplates--starters">Boilerplates & Starters</a>  |  
+      <a href="#tools--utilities">Tools & Utilities</a>  |  
+      <a href="#inspirations--examples">Inspirations & Examples</a>  |  
+      <a href="#platforms--applications">Platforms & Applications</a>  |  
+      <a href="#themes--customizations">Themes & Customizations</a>  |  
+      <a href="#plugins--extensions">Plugins & Extensions</a>  |  
+      <a href="#ports--implementations">Ports & Implementations</a>  |  
+      <a href="#design-systems--kits">Design Systems & Kits</a>  |  
+      <a href="#animations--effects">Animations & Effects</a>
+    </td>
+  </tr>
+</table>
 
 ## Components & Libraries
 
