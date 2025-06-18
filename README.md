@@ -10,6 +10,7 @@
 <div>
 <h1 align='center'>Awesome ShadcnUI By SERP Blocks</h1>
 <p align='center'>The largest list online of awesome things related to <a href='https://ui.shadcn.com/' target="_blank">shadcn/ui</a></p>
+ <p align='center'>In partnership with the <a href='https://awesome-shadcn-ui.com/' target="_blank">Awesome Shadcn/ui Directory</a></p>
 </div>
 <table align="center">
   <tr>
