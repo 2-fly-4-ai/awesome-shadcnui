@@ -33,7 +33,7 @@
 
 | Name | Description | Link | Demo | Stars |
 |------|-------------|------|------|-------|
-| SERP UI Blocks | A collection of over 1200 Premium Blocks built for shadcn/UI with Theming in mind. Over 150 Free blocks available!  |  | [Demo](https://www.blocks.serp.co/) | |
+| SERP UI Blocks | A collection of over 1200 Premium Blocks built for shadcn/UI with Theming in mind. Over 150 Free blocks available!  |  | [Demo](https://serp.ly/serp-blocks) | |
 | Shadcn UI | shadcn/ui offers accessible, customizable React components. Copy-paste to build your unique component library using Radix UI and Tailwind CSS. | [Github](https://github.com/shadcn-ui/ui) | [Demo](https://ui.shadcn.com/) | ★88431 |
 | Radix UI | Radix Primitives is an open-source, low-level UI component library focused on accessibility, customization, and developer experience for building design systems and web apps. | [Github](https://github.com/radix-ui/primitives) | [Demo](https://radix-ui.com/primitives) | ★17265 |
 | Magic UI | Magic UI is a free, open-source library for design engineers, offering 150+ animated components built with React, Typescript, Tailwind CSS, and Motion. | [Github](https://github.com/magicuidesign/magicui) | [Demo](https://magicui.design) | ★17058 |
