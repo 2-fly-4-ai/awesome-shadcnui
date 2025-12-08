@@ -799,7 +799,7 @@
 | shadcn-table-maker | A Next.js tool using ShadCN to rapidly scaffold dynamic tables with search, pagination, sorting, and CRUD operations. |  | [Demo](https://shadcn-table-maker.vercel.app/) |  |
 | ui-colorgen | A focused utility for developers to generate, view, and copy color palettes tailored for shadcn/ui projects, supporting HEX, RGB, and HSL formats. |  | [Demo](https://ui-colorgen.vercel.app/) |  |
 | 5devs | 5Devs provides developers with a versatile generator for various fake Brazilian data types, crucial for comprehensive software testing and quality assurance. |  | [Demo](https://www.5devs.com.br/) |  |
-| excelkits | Craft free, downloadable Shadcn-inspired chart images and WEBM videos. Supports PNG, JPEG, WEBP. Upload your data for realistic visualizations. |  | [Demo](https://excelkits.com/charts) |  |
+| Graphitup | Craft free, downloadable Shadcn-inspired chart images and WEBM videos. Supports PNG, JPEG, WEBP. Upload your data for realistic visualizations. |  | [Demo](https://graphitup.com/tools) |  |
 
 ## Inspirations & Examples
 
