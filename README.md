@@ -1033,6 +1033,7 @@
 | country-data-in-charts | Globe Graph is a web application displaying country-specific data like GDP, GDP per capita, and population for various years through multiple chart visualizations. |  | [Demo](https://globe-graph.vercel.app/) |  |
 | cv-forge | A developer-focused resume builder utilizing @shadcn/ui, react-hook-form, and react-pdf for creating modern, professional CVs with PDF export. |  | [Demo](https://cvforge.app) |  |
 | focus-brew | FocusBrew offers a complimentary suite of productivity instruments designed to enhance focus, organization, and efficiency for your daily tasks. |  | [Demo](https://focusbrew.vercel.app) |  |
+| CiteMe | An AI-powered academic citation generator that searches 11+ databases (OpenAlex, PubMed, Semantic Scholar, CrossRef, SciELO) and formats references in 40+ citation styles. Built with Next.js, Supabase, Tailwind CSS, and shadcn/ui. |  | [Demo](https://citeme.app) |  |
 
 ## Themes & Customizations
 
