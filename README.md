@@ -306,6 +306,7 @@
 | solanauth | A responsive Solana wallet authentication and account modal for Next.js, featuring NextAuth integration and shadcn/ui components for modern dApps. |  | [Demo](https://solanauth.vercel.app/) |  |
 | vaul | Vaul is a dedicated React component for implementing drawer UIs, offering a simple way to add interactive panels for navigation or content. |  | [Demo](https://vaul.emilkowal.ski/) |  |
 | animata | Discover a free, open-source library of hand-crafted ReactJS animations and interactive effects, designed for easy copy-paste integration into your applications. |  | [Demo](https://animata.design) |  |
+| 21st.dev Agent Elements | Open-source registry of agent UI primitives — chat shell, tool-call cards (Bash, Edit, Search, Todo, Plan), clarifying questions, input bar, streaming markdown. Built on React 19, Tailwind v4, and the Vercel AI SDK. | [Github](https://github.com/21st-dev/agent-elements) | [Demo](https://agent-elements.21st.dev) |  |
 
 ## Boilerplates & Starters
 
