@@ -903,6 +903,8 @@
 
 ## Platforms & Applications
 
+- [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Free, open-source LMS for Bible schools. Course authoring, quizzes, grading, certificates. Built with React, shadcn/ui, Tailwind CSS, and FastAPI.
+
 | Name | Description | Link | Demo | Stars |
 |------|-------------|------|------|-------|
 | Inbox Zero | Inbox Zero is an open-source AI email assistant and client designed to help you manage emails efficiently and achieve inbox zero quickly. | [Github](https://github.com/elie222/inbox-zero) |  | ★7975 |
