@@ -905,7 +905,7 @@
 
 | Name | Description | Link | Demo | Stars |
 |------|-------------|------|------|-------|
-| UnfoldCMS | Self-hosted Laravel CMS with 210+ admin pages and 51 shadcn/ui components. REST API v1, HMAC-signed webhooks, headless mode for Next.js/Astro/SvelteKit/Nuxt. | [Github](https://github.com/hpakdaman/unfoldcms) | [Demo](https://demo.unfoldcms.com) | ★— |
+| UnfoldCMS | Laravel CMS with a shadcn/ui admin panel (51 components, 210+ pages), REST API, webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt. | [Github](https://github.com/hpakdaman/unfoldcms) | [Demo](https://demo.unfoldcms.com) | ★1 |
 | Inbox Zero | Inbox Zero is an open-source AI email assistant and client designed to help you manage emails efficiently and achieve inbox zero quickly. | [Github](https://github.com/elie222/inbox-zero) |  | ★7975 |
 | Stack | Stack Auth offers a developer-friendly, open-source user authentication and management platform, providing a robust and flexible alternative to services like Auth0 or Clerk. | [Github](https://github.com/stack-auth/stack) | [Demo](https://stack-auth.com) | ★5863 |
 | Invoify | Invoify is a Next.js, TypeScript, and Shadcn UI based web app for easy creation, management, and export of professional invoices. | [Github](https://github.com/aliabb01/invoify) | [Demo](https://invoify.vercel.app) | ★5304 |
