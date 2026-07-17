@@ -1137,6 +1137,7 @@
 | shadcn-ui-components | A comprehensive Figma kit featuring shadcn/ui components, meticulously recreated with variables and animations for seamless design workflows, updated as of April 2025. |  | [Demo](https://www.figma.com/community/file/1342715840824755935/shadcn-ui-components) |  |
 | shadcn-ui-storybook (fellipeutaka) | Fellipeutaka's Storybook collection, presenting all registered shadcn/ui components for easy visual exploration and developer reference. |  | [Demo](https://fellipeutaka-ui.vercel.app/?path=/docs/components-accordion--docs) |  |
 | mynaui | MynaUI is a comprehensive UI kit powered by TailwindCSS, shadcn/ui, and Radix UI, designed for Figma and React/Next.js development workflows. |  | [Demo](https://mynaui.com/) |  |
+| ShadcnStore | Complete shadcn/ui ecosystem featuring a Figma UI kit, components, blocks, templates, and admin dashboards. |  | [Demo](https://shadcnstore.com/) |  |
 
 ## Animations & Effects
 
