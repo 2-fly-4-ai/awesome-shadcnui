@@ -1145,4 +1145,5 @@
 | motionvariants | A curated collection of handmade, free, and ready-to-use Framer Motion animations and variants, simplifying integration for stunning visual effects. | [Github](https://github.com/chrisabdo/motionvariants) | [Demo](https://variantvault.vercel.app) | ★976 |
 | pqoqubbw | An open-source (MIT License) collection of smooth, beautifully crafted animated icons, built with motion and lucide, for enhancing your projects. |  | [Demo](https://icons.pqoqubbw.dev/) |  |
 | tailwindcss-motion | An intuitive animation library for Tailwind CSS, offering a straightforward syntax, comprehensive features, and extensive customization options for developers. |  | [Demo](https://rombo.co/tailwind/) |  |
+| Hyperiux Vault | A collection of high-quality animation effects and interactive components for Next.js, installed via a CLI that copies source code directly into your project. | [Github](https://github.com/Hyperiux-Immersion-Labs/hyperiux-components) | [Demo](https://vault.hyperiux.com/) | ★34 |
 
