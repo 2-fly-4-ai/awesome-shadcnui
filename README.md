@@ -306,6 +306,7 @@
 | solanauth | A responsive Solana wallet authentication and account modal for Next.js, featuring NextAuth integration and shadcn/ui components for modern dApps. |  | [Demo](https://solanauth.vercel.app/) |  |
 | vaul | Vaul is a dedicated React component for implementing drawer UIs, offering a simple way to add interactive panels for navigation or content. |  | [Demo](https://vaul.emilkowal.ski/) |  |
 | animata | Discover a free, open-source library of hand-crafted ReactJS animations and interactive effects, designed for easy copy-paste integration into your applications. |  | [Demo](https://animata.design) |  |
+| crafterui | Open-source motion and interaction components for React and Tailwind: 3D carousels, scroll letter reveals, a Dynamic Island, cursor hit-testing and rolling countdowns, installed with the shadcn CLI and owned as source. | [Github](https://github.com/SriSomanaath/crafterui) | [Demo](https://crafterui.com) |  |
 
 ## Boilerplates & Starters
 
