@@ -747,6 +747,7 @@
 | magicui-startup-templates | A frontend startup template leveraging shadcn/ui, TailwindCSS, and Framer Motion for rapid development of landing pages and new project ideas. |  | [Demo](https://magicui.design/docs/templates/startup) |  |
 | opendocs | Opendocs is a beautifully designed, free, and open-source template. It's accessible, customizable, and supports i18n, perfect for jumpstarting your projects. |  | [Demo](https://opendocs.daltonmenezes.com/) |  |
 | template-next | A Next.js boilerplate with TypeScript, TailwindCSS, Shadcn/ui, and Prettier, optimized for rapid project initiation using essential pre-configured packages. |  | [Demo](https://template-next-official.vercel.app/) |  |
+| FastAPI Supabase Starter | Paid SaaS starter pairing a FastAPI backend on Supabase with a React frontend built on shadcn/ui, including auth, teams, roles, Stripe and Razorpay payments and an AI assistant. |  | [Demo](https://starter.budeglobal.in) |  |
 
 ## Tools & Utilities
 
